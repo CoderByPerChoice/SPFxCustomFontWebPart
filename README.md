@@ -1,8 +1,17 @@
-# custom-font
+# Setting custom font in SPFx webpart.
 
 ## Summary
 
 Short summary on functionality and used technologies.
+
+<img width="739" alt="Pic1" src="https://user-images.githubusercontent.com/20637763/113393372-36570100-93b4-11eb-8273-821cdb6a23b8.PNG">
+
+This is the project implementation of article shared by Stefan Bauer
+https://n8d.at/how-to-bundle-and-use-custom-web-fonts-in-spfx-projects/
+
+Attaching picture of my lib folder in case you get some errors in console - 
+![image](https://user-images.githubusercontent.com/20637763/113393694-a9607780-93b4-11eb-80b5-7a96f5e73757.png)
+
 
 [picture of the solution in action, if possible]
 
